@@ -1,2 +1,2 @@
-google-chrome-158.0.8127.36-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
 git-credential-manager-bin-3.0.2-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
+google-chrome-158.0.8127.88-1-x86_64.pkg.tar.zst filter=lfs diff=lfs merge=lfs -text
